@@ -18,3 +18,8 @@ export FILE_PATH=/Users/&User/.kv_cli/storage
 `
 cli_kv -h
 `
+
+## to build
+`
+cargo build -r
+`
